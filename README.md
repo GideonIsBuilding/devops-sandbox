@@ -80,7 +80,7 @@ docker --version && docker compose version && python3 --version
 
 ```bash
 # 1. Clone and enter the repo
-git clone https://github.com/<you>/devops-sandbox && cd devops-sandbox
+git clone https://github.com/gideonisbuilding/devops-sandbox && cd devops-sandbox
 
 # 2. Copy the example config
 cp .env.example .env
