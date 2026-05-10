@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Runtime state (gitignored — generated at runtime)
+envs/*.json
+logs/
+!logs/.gitkeep
+
+# Nginx generated configs
+nginx/conf.d/*.conf
+!nginx/conf.d/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/

@@ -1,0 +1,3 @@
+# This directory holds auto-generated per-environment nginx configs.
+# Files here are created by platform/create_env.sh and deleted by destroy_env.sh.
+# Do not edit manually.
